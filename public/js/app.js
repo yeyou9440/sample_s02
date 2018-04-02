@@ -43280,7 +43280,7 @@ if (false) {
 /* 42 */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed: ModuleBuildError: Module build failed: Error: EPROTO: protocol error, open '/home/vagrant/Code/sample/resources/assets/sass/app.scss'\n    at Error (native)\n    at runLoaders (/home/vagrant/Code/sample/node_modules/webpack/lib/NormalModule.js:195:19)\n    at /home/vagrant/Code/sample/node_modules/loader-runner/lib/LoaderRunner.js:364:11\n    at /home/vagrant/Code/sample/node_modules/loader-runner/lib/LoaderRunner.js:200:19\n    at /home/vagrant/Code/sample/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:70:14\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)");
+// removed by extract-text-webpack-plugin
 
 /***/ })
 /******/ ]);
